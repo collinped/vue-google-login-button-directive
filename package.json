@@ -1,0 +1,26 @@
+{
+  "name": "vue-google-login-button-directive",
+  "version": "0.0.1",
+  "description": "A Vue directive for adding a Google Login Button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinped/vue-google-login-button-directive.git"
+  },
+  "keywords": [
+    "vue",
+    "google",
+    "login",
+    "signin",
+    "cognito"
+  ],
+  "author": "Manuel Mejia Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinped/vue-google-login-button-directive/issues"
+  },
+  "homepage": "https://github.com/collinped/vue-google-login-button-directive#readme"
+}
